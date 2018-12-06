@@ -1,0 +1,34 @@
+1. DVO can be used to validate transformation and mappings?
+2. DVO for Cross-Mapping columns
+3. Platinum TASQ for full SDLC cycle?
+4. Available Options in Platunim?
+5. Indirect links in defect to requirement
+6. ETL Recovery Testing?
+7. Conditional sign off
+8. Sanity testing
+9. Smoke testing (diffrence between sanity and Smoke)
+10. Regression Testing
+11. UAT Testing
+12. Advantage of Risk based Testing
+13. Test data preparion - critical and essential concerns
+14. Advantage of Agile Testing - Reduces time and cos
+15. Risk-Based Testing - A good enough testing
+16. ETL SIT Entry criteria
+17. History load testing
+18. Incremental Load testing
+19. SCD Type 4
+20. Sanity Testing is Acceptance testing, Smoke is Regression Testing
+21. Sanity testing checks the major functionality with finer details
+22. Sanity Testing - Checking the rationality
+23. Smoke testing - checking the stability
+24. Platinum Test Case generator
+25. Rsik 1 test case is likely to cause inconvinience to the user
+26. WSR
+27. Red Status
+28. Types of Testing
+29. Default graph in QC - Bar
+30. Dynamic update in value during the test execution - "Live Analysis Graph"
+31. Requirement and functional Defect
+32. Test configuration is automatically created with the test name in QC
+33. Pre-populated fileds while raising a defect
+34. How to create a test case in QC
